@@ -10,8 +10,10 @@ namespace ConGithubTest
     {
         static void Main(string[] args)
         {
+            string adi = "Ahmet";
+            Console.WriteLine(adi + " Hoş Geldiniz");
             Console.WriteLine("Kullanıcı Adını Giriniz");
-            Console.WriteLine("Şifre Giriniz");
+            Console.WriteLine("Şifre Girme");
             Console.ReadKey();
         }
     }
