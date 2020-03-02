@@ -11,7 +11,7 @@ namespace ConGithubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Kullanıcı Adını Giriniz");
-            Console.WriteLine("Şifre Giriniz");
+            Console.WriteLine("Şifre Girmeyi Unutmayın");
             Console.ReadKey();
         }
     }
